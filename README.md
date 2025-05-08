@@ -47,7 +47,7 @@ O jogo desafia os usuários a identificarem números primos corretamente, manten
 
 📝 Licença
 
-Este projeto está sob a licença MIT. Veja mais detalhes em https://LICENSE
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 Desenvolvido por [Cezar D Silva](https://github.com/cezardsilva)
